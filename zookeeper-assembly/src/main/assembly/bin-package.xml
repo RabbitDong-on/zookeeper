@@ -35,7 +35,7 @@
         <include>*:*</include>
       </includes>
       <excludes>
-        <exclude>org.apache.zookeeper:zookeeper-recipes</exclude>
+        <!-- <exclude>org.apache.zookeeper:zookeeper-recipes</exclude> -->
         <exclude>org.apache.zookeeper:zookeeper-client</exclude>
         <exclude>org.apache.zookeeper:zookeeper-docs</exclude>
       </excludes>
